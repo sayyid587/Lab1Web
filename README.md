@@ -4,4 +4,4 @@
 <p>Kelas: TI.24.A.5</p>
 ## Penjelasan setiap langkah beserta screenshotnya
 ### langkah 1
-![gambar 1].(ss1.png)
+![gambar 1](ss1.png)
