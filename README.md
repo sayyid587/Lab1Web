@@ -33,6 +33,8 @@ Agar gambar tetap proporsional, sebaiknya cukup isi salah satu atribut saja (mis
 - `target="_top"` → Membuka link di jendela penuh, menghapus semua frame (jika ada).
 - `target="_parent"` → Membuka link di halaman induk (parent frame) jika halaman berada dalam sebuah frame.
 
+---
+
 ## Penjelasan singkat setiap langkah beserta screenshotnya
 
 ### langkah 1
