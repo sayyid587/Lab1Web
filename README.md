@@ -6,8 +6,10 @@
 ## Penjelasan setiap langkah beserta screenshotnya
 
 ### langkah 1
+<p align="center">
 <img src="ss1.png" alt="gambar" width="500">
 <img src="ss2.png" alt="gambar" width="500">
+</p>
 
 ### langkah 2
 <img src="ss3.png" alt="gambar" width="500">
