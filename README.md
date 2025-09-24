@@ -6,5 +6,25 @@
 ## Penjelasan setiap langkah beserta screenshotnya
 
 ### langkah 1
-![gambar 1](ss1.png)
-<img src="ss2.png" alt="Logo Unpad" width="400">
+<img src="ss1.png" alt="gambar" width="500">
+<img src="ss2.png" alt="gambar" width="500">
+
+### langkah 2
+<img src="ss3.png" alt="gambar" width="500">
+<img src="ss4.png" alt="gambar" width="500">
+
+### langkah 3
+<img src="ss5.png" alt="gambar" width="500">
+<img src="ss6.png" alt="gambar" width="500">
+
+### langkah 4
+<img src="ss7.png" alt="gambar" width="500">
+<img src="ss8.png" alt="gambar" width="500">
+
+### langkah 5
+<img src="ss9.png" alt="gambar" width="500">
+<img src="ss10.png" alt="gambar" width="500">
+
+### langkah 6
+<img src="ss11.png" alt="gambar" width="500">
+<img src="ss12.png" alt="gambar" width="500">
