@@ -7,4 +7,4 @@
 
 ### langkah 1
 ![gambar 1](ss1.png)
-<img src="ss2.png" alt="Logo Unpad" width="200">
+<img src="ss2.png" alt="Logo Unpad" width="400">
